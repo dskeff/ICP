@@ -34,7 +34,7 @@ The directory structure is as below:
 |-- RUN08-Create-Desktop-Shortcut.vbs
 ```
 
-Please note that the VMware disks (vmdk) files are not in this repository. Please do not clone this repository. This ICP image can be downloaded from this [link](https://ibm.box.com/v/icppot)
+Please note that the VMware disks (vmdk) files are not in this repository. Please do not clone this repository. This ICP image can be downloaded from this [link](http://ibm.com)
 
 Instructions for building the image and VMs on W540 32 GB Laptop (minimum) or Levovo 64 GB P50 laptop are as under.
 
